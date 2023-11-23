@@ -1,3 +1,5 @@
+package ejercicio_9_supermercado;
+
 import java.util.Random;
 import java.util.concurrent.Semaphore;
 
@@ -140,6 +142,4 @@ public class Supermercado {
         System.out.println("Caja 2: " + cantidadRecaudadaCajaRegistradora[1]);
         System.out.println("Caja 3: " + cantidadRecaudadaCajaRegistradora[2]);
     }
-
-
 }
